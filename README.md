@@ -1,3 +1,4 @@
 # message-board
-message board depend on jquery fancybox php
+留言板
+使用 jquery jquery.fancybox 和 php
 
